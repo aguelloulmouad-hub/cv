@@ -1,2 +1,2 @@
 # CV — Mouad Aguelloul
-   📄 [Download CV (PDF)](./CV_Mouad_Aguelloul.pdf)
+   <center> 📄 [Download CV (PDF)](./CV_Mouad_Aguelloul.pdf) <\center>
